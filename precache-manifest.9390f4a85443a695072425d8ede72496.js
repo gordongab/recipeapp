@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/recipeapp/static/js/runtime~main.af770181.js"
   },
   {
-    "revision": "8020ce87665f337badc6",
-    "url": "/recipeapp/static/js/main.8020ce87.chunk.js"
+    "revision": "f4264368880fd0bac651",
+    "url": "/recipeapp/static/js/main.f4264368.chunk.js"
   },
   {
     "revision": "a44f0c0078e70b51841d",
     "url": "/recipeapp/static/js/1.a44f0c00.chunk.js"
   },
   {
-    "revision": "8020ce87665f337badc6",
+    "revision": "f4264368880fd0bac651",
     "url": "/recipeapp/static/css/main.fff0932c.chunk.css"
   },
   {
-    "revision": "785628c8c72163a4dff782d9d152fe2b",
+    "revision": "d41caa51ad5ad16a86ebd1600a09d368",
     "url": "/recipeapp/index.html"
   }
 ];
